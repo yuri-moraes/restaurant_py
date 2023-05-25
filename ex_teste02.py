@@ -1,7 +1,4 @@
-"""Exercício 2 da Atividade Prática - Lógica de programação e Algorítimos"""
-
 print("Welcome to the Restaurant's Yuri Nogueira de Moraes")
-IDENTIFICATION_RU = 4506821
 
 # Inicialize o valor total do pedido como zero
 TOTAL = 0
